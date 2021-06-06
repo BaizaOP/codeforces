@@ -1,4 +1,4 @@
-// Author: Baiza
+// Author: BaizaOP
 // Date: 6/5/2021
 // Problem Number: 282A
 // Problem Name: Bit++
