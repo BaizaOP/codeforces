@@ -26,7 +26,6 @@ int main()
     return 0;
 }
 
-
 int solve(string x)
 {
     int sign = 0;
