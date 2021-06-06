@@ -1,4 +1,4 @@
-// Author: Baiza
+// Author: BaizaOP
 // Date: 6/6/2021
 // Problem Number: 281A
 // Problem Name: Word Capitalization 
@@ -7,7 +7,6 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
 
 int main()
 {
