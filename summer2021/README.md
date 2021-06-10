@@ -2,7 +2,7 @@ This is directory for my Summer 2021 Challenge. Essentially, I want to do **1000
 
 I have completed 
 
-# 0/1000
+<div style="font-size: large;"><strong> 0/1000 </strong> </div>
 
 problems currently.
 
