@@ -2,7 +2,7 @@ This is directory for my Summer 2021 Challenge. Essentially, I want to do **1000
 
 I have completed 
 
-#0/1000
+# 0/1000
 
 problems currently.
 
