@@ -4,7 +4,7 @@
 // Problem Difficulty: 1000
 // Summer 2021 Challenge Number: 1
 // Number Today: 1
-// Number of attempts: 
+// Number of attempts: 1 
 
 #include <bits/stdc++.h>
 
