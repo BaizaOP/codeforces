@@ -2,9 +2,11 @@
 // Date: 6/12/2021
 // Problem Name: 43A Football
 // Problem Difficulty: 1000
+// Challenge: Summer 2021 1000 Challenge
+// Number of attempts: 1
+
 // Summer 2021 Challenge Number: 11 
 // Number Today: 1
-// Number of attempts: 1
 
 // another deceptively simple one...
 

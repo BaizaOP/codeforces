@@ -2,6 +2,7 @@
 // Date: 6/5/2021
 // Problem Number: 282A
 // Problem Name: Bit++
+// Challenge: none
 // Number of attempts: 1 
 
 #include <bits/stdc++.h>

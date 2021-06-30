@@ -2,9 +2,11 @@
 // Date: 6/11/2021
 // Problem Name: 34A Reconnaissance 2
 // Problem Difficulty: 800
+// Challenge: Summer 2021 1000 Challenge
+// Number of attempts: 1
+
 // Summer 2021 Challenge Number: 6 
 // Number Today: 1
-// Number of attempts: 1
 
 // like I have no clue how it even works, it just does lmao
 

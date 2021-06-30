@@ -2,9 +2,11 @@
 // Date: 6/10/2021
 // Problem Name: 318A Even Odds
 // Problem Difficulty: 900
+// Challenge: Summer 2021 1000 Challenge
+// Number of attempts: 2
+
 // Summer 2021 Challenge Number: 5
 // Number Today: 5
-// Number of attempts: 2
 
 #include <bits/stdc++.h>
 

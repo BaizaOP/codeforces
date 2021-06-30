@@ -2,9 +2,11 @@
 // Date: 6/11/2021
 // Problem Name: 205A Little Elephant and Rozdil
 // Problem Difficulty: 900
+// Challenge: Summer 2021 1000 Challenge
+// Number of attempts: 1  
+
 // Summer 2021 Challenge Number: 7 
 // Number Today: 2
-// Number of attempts:  
 
 // seems deceptively easy...
 // wasn't as easy as I thought, but it was fun implementing workarounds so only 1 loop was needed! 8)

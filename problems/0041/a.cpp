@@ -2,9 +2,11 @@
 // Date: 6/11/2021
 // Problem Name: 41A Translation
 // Problem Difficulty: 800
+// Challenge: Summer 2021 1000 Challenge
+// Number of attempts: 1
+
 // Summer 2021 Challenge Number: 10 
 // Number Today: 5
-// Number of attempts: 1
 
 // freaking occams rasor in action lmao
 // it was seriously that easy

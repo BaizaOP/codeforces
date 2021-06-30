@@ -2,6 +2,7 @@
 // Date: 6/6/2021
 // Problem Number: 281A
 // Problem Name: Word Capitalization 
+// Challenge: none
 // Number of attempts: 1 
 
 #include <bits/stdc++.h>

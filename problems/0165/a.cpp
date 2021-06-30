@@ -2,9 +2,11 @@
 // Date: 6/10/2021
 // Problem Name: 165A Supercentral Point
 // Problem Difficulty: 1000
+// Challenge: Summer 2021 1000 Challenge
+// Number of attempts: 1  
+
 // Summer 2021 Challenge Number: 3 
 // Number Today: 3
-// Number of attempts: 1  
 
 // time for big jank loll
 // and it did not disappoint. I am not sure whether I should be happy or sad about this...

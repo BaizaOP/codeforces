@@ -2,6 +2,7 @@
 // Date: 6/7/2021
 // Problem Number: 266A
 // Problem Name: Stones on the Table
+// Challenge: none
 // Number of attempts: 1
 
 // from what I gather... this is a simple deal of deleting duplicates in an array. Or is it?

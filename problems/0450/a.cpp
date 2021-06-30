@@ -2,9 +2,11 @@
 // Date: 6/10/2021
 // Problem Name: 450A Jzzhu and Children
 // Problem Difficulty: 1000
+// Challenge: Summer 2021 1000 Challenge
+// Number of attempts: 1 
+
 // Summer 2021 Challenge Number: 2 
 // Number Today: 2
-// Number of attempts: 1 
 
 #include <bits/stdc++.h>
 

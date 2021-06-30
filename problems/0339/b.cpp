@@ -2,9 +2,11 @@
 // Date: 6/11/2021
 // Problem Name: 339B Xenia and Ringroad
 // Problem Difficulty: 1000
+// Challenge: Summer 2021 1000 Challenge
+// Number of attempts: 2
+
 // Summer 2021 Challenge Number: 8
 // Number Today: 3
-// Number of attempts: 2
 
 // really short...?
 // it really was that easy... except "moves" got an integer overflow URGHGHGHGHGHGHGH. Literally had to change to long long then it worked :sadge:

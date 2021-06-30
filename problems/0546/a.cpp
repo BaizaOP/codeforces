@@ -2,6 +2,7 @@
 // Date: 6/5/2021
 // Problem Number: 546A 
 // Problem Name: Soldier and Bananas
+// Challenge: none
 // Number of attempts: 1  
 
 #include <bits/stdc++.h>

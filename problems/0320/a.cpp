@@ -2,9 +2,11 @@
 // Date: 6/11/2021
 // Problem Name: 320A Magic Numbers
 // Problem Difficulty: 900
+// Challenge: Summer 2021 1000 Challenge
+// Number of attempts: 2
+
 // Summer 2021 Challenge Number: 9 
 // Number Today: 4
-// Number of attempts: 2
 
 // a bunch of if statements... i guess
 // my implementation was correct, but i accidentally had 1 too many pop_backs for the string and it went haywire...

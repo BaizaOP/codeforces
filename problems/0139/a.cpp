@@ -2,9 +2,11 @@
 // Date: 6/10/2021
 // Problem Name: 139A Petr and Book
 // Problem Difficulty: 1000
+// Challenge: Summer 2021 1000 Challenge
+// Number of attempts: 1 
+
 // Summer 2021 Challenge Number: 4
 // Number Today: 4
-// Number of attempts: 1 
 
 #include <bits/stdc++.h>
 
