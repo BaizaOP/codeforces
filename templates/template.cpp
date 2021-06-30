@@ -1,9 +1,9 @@
 // Author: BaizaOP
 // Date:
-// Problem Number:
 // Problem Name:
+// Problem Difficulty:
 // Challenge:
-// Number of attempts: 
+// Number of attempts:
 
 #include <bits/stdc++.h>
 
