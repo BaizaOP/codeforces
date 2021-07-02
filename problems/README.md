@@ -18,7 +18,7 @@ Current Med Difficulty: 900
 
 Current Hard Difficulty: 1000
 
-Current Streak: **1** day(s)
+Current Streak: **2** day(s)
 
 Past Streaks
 
