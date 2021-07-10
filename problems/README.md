@@ -18,10 +18,11 @@ Current Med Difficulty: 900
 
 Current Hard Difficulty: 1000
 
-Current Streak: **0** day(s)
+Current Streak: **1** day(s)
 
 Past Streaks
 6/30/2021 - 7/1/2021 (2 days)
+7/6/2021 - 7/7/2021 (2 days)
 
 ## Summer 2021 1000 Challenge
 This was a challenge to get to 1000 problems by the end of the summer. However, I ended up scratching the idea due to restructuring my priorities. 
