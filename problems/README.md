@@ -40,4 +40,4 @@ Past Streaks
 Scrapping this one to have more time to dive deeper in to DSA and use the USACO website more.
 
 ## Summer 2021 1000 Challenge
-This was a challenge to get to 1000 problems by the end of the summer. However, I ended up scratching the idea due to restructuring my priorities. 
+This was a challenge to get to 1000 problems by the end of the summer. However, I ended up scrapping the idea due to restructuring my priorities. 
