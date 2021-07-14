@@ -2,18 +2,21 @@ This is a folder containing all of the Codeforces problems I complete that are n
 
 # Challenges
 
-[Summer 2021 30 Problem Challenge](#summer-2021-30-problem-challenge) (7/12/2021 to ?)
+[2021 Every Day Challenge](#2021-every-day-challenge) (7/14/2021 to ?)
 
 [Summer 2021 Streak Challenge](#summer-2021-streak-challenge) (6/29/2021 to 7/11/2021)
 
 [Summer 2021 1000 Challenge](#summer-2021-1000-challenge) (6/10/2021 to 6/12/2021)
 
 
-## Summer 2021 30 Problem Challenge
-The idea for this one is to do 30 CF problems a week. There is no mandatory difficulty that I have to meet, just that if it is harder then it will be more beneficial to me, you get me?
+## 2021 Every Day Challenge
+This challenge is a fairly "low-key" challenge as all I want to do 2-3 problems a day as I start working on USACO more and more. Note though that this is not a Summer Challenge as I want to continue this through the school year.
 
-Problems Completed:
-- Week 1 (July 12th - July 18th): 0 problems
+Current Streak: **0** day(s)
+
+Past Streaks
+
+- 7/14/2021 - ? (? days)
 
 ## Summer 2021 Streak Challenge
 This is a challenge to do 6 Codeforces problems a day as long as I can. 
@@ -29,6 +32,7 @@ Current Hard Difficulty: 1000
 Current Streak: **1** day(s)
 
 Past Streaks
+
 - 6/30/2021 - 7/1/2021 (2 days)
 - 7/6/2021 - 7/7/2021 (2 days)
 - 7/9/2021 - 7/11/2021 (3 days)
